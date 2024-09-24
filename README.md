@@ -1,4 +1,6 @@
 # Authors-and-roles
-Сисадмин и владелец сервера, на котором держится игра:@AkaDannnn
+Автор идеи - @tetram1t
+Сисадмин - @AkaDannnn
 Фронтендеры - @KonstantinHerasimenko
-Гейм-дев и автор идеи - @tetram1t 
+Дизайнеры - @KonstantinHerasimenko
+Гейм-дев - @tetram1t 
